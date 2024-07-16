@@ -284,6 +284,7 @@ nav a:hover::after {
     text-align: center;
     padding: 5px;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 .project-1:hover img, .project-2:hover img, .project-3:hover img {
