@@ -404,3 +404,9 @@ nav a:hover::after {
 
     
 }
+
+@media screen and (max-width: 1080) {
+    .nav-glass {
+        width: 80%;
+    }
+}
